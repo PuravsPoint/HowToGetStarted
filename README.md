@@ -8,3 +8,4 @@ Below is a break down of the pages within this repo:
 3. [KQL](KQL.md) - This page will guide you on getting started with Kusto Query Language (KQL)
 4. [DefenderXDR](DefenderXDR.md) - This page will guide you on getting started with Defender XDR
 5. [PurviewCompliance](PurviewCompliance.md) - This page will guide you on getting started with Purview Compliance
+6. [MDE](MDE.md) - This page will guide you getting started with Microsoft Defender for Endpoint (MDE)
