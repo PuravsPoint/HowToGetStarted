@@ -3,7 +3,7 @@ This repository provides insight on how to get started with Cybersecurity / Micr
 
 🎥 [How To Get Started with Microsoft Security - Mariana Tech Academy Webinar](https://youtu.be/QKnDXzz4yx0&t=1384)
 
-Below is a break down of the pages within this repo:
+Below is a breakdown of the pages within this repo:
 
 1. [Certifications](Certifications.md) - This page will guide you on certifications to build foundational knowledge
 2. [MicrosoftSentinel](MicrosoftSentinel.md) - This page will guide you on getting started with Microsoft Sentinel
