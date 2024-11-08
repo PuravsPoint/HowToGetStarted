@@ -13,6 +13,6 @@ Below is a breakdown of the pages within this repo:
 6. [MDE](MDE.md) - This page will guide you on getting started with Microsoft Defender for Endpoint (MDE)
 7. [Azure Security](AzureSecurity.md) - This page will guide you on getting started with Azure Security
 8. [M365 Incident Response](M365IncidentResponse.md) - This page will guide you on getting started with M365 Incident Response
-9. [Microsoft MVP](MVP.md) - This page will help you to started if you're interested to become an MVP
+9. [Microsoft MVP](MVP.md) - This page will help you to get started if you're interested to become an MVP
 
 
