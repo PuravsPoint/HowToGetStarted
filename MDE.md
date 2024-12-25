@@ -6,3 +6,4 @@
 2. [Ultimate MDE Blog Series by Jeffrey Appel](https://jeffreyappel.nl/microsoft-defender-for-endpoint-the-ultimate-blog-series-for-windows-intro/)
 3. [Sharing insight at Microsoft Secure](https://www.linkedin.com/feed/update/urn:li:activity:7049428053566869505/)
 4. [MDE book from Packt](https://www.linkedin.com/feed/update/urn:li:activity:7037479829776039937/)
+5. [Defend against cyberthreats with Microsoft Defender XDR - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DB92EDC3A755353A?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276891791402930177/)
