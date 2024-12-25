@@ -7,6 +7,7 @@
 3. [KQL Search](https://www.kqlsearch.com/) |
 [My Purview Audit Query](https://www.kqlsearch.com/query/Purview%20Audit%20Search%20Monitoring&cm3bnzhzi001mmc0ti4spy8a5)
 4. [DeviceTvmSoftwareEvidenceBeta KQL Advanced Hunting Use Case](https://www.linkedin.com/pulse/devicetvmsoftwareevidencebeta-kql-advanced-hunting-use-purav-desai/)
+5. [Sergio Albea's KQL Advent Calendar 2024](https://www.linkedin.com/feed/update/urn:li:activity:7277625278611263488/)
 
 Paid/Subscription resources:
 
