@@ -4,10 +4,11 @@
 2. [SC-200 Microsoft Certified: Security Operations Analyst Associate Certification](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst) | [My tips & advice](https://www.linkedin.com/feed/update/urn:li:activity:7150047254576336896/)
 3. [Sentinel Applied Skill](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/) |
 [My experience](https://www.linkedin.com/feed/update/urn:li:activity:7125185465216823298/)
-3. [KQL Search](https://www.kqlsearch.com/) |
+4. [KQL Search](https://www.kqlsearch.com/) |
 [My Purview Audit Query](https://www.kqlsearch.com/query/Purview%20Audit%20Search%20Monitoring&cm3bnzhzi001mmc0ti4spy8a5)
-4. [DeviceTvmSoftwareEvidenceBeta KQL Advanced Hunting Use Case](https://www.linkedin.com/pulse/devicetvmsoftwareevidencebeta-kql-advanced-hunting-use-purav-desai/)
-5. [Sergio Albea's KQL Advent Calendar 2024](https://www.linkedin.com/feed/update/urn:li:activity:7277625278611263488/)
+5. [DeviceTvmSoftwareEvidenceBeta KQL Advanced Hunting Use Case](https://www.linkedin.com/pulse/devicetvmsoftwareevidencebeta-kql-advanced-hunting-use-purav-desai/)
+6. [Sergio Albea's KQL Advent Calendar 2024](https://www.linkedin.com/feed/update/urn:li:activity:7277625278611263488/)
+7. [KQL Cheat Sheet Explained by Rod Trent](https://rodtrent.substack.com/p/kql-cheat-sheet-explained)
 
 Paid/Subscription resources:
 
