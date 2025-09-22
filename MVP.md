@@ -14,4 +14,4 @@
 
 * 2024: [Achieving MVP](https://www.linkedin.com/feed/update/urn:li:activity:7224878789258866689/) | [MVP Award Crystal](https://www.linkedin.com/feed/update/urn:li:activity:7234115050158854144/) | [Security Award Category update](https://www.linkedin.com/feed/update/urn:li:activity:7236839336384606209/) | [Credly badge](https://www.linkedin.com/feed/update/urn:li:activity:7244023663035826178/) | [Unofficially a Purview MVP](https://www.linkedin.com/feed/update/urn:li:activity:7253680060249862144/)
 
-* 2025: [Renewal & becoming Dual MVP (Purview/SIEM & XDR) for the first time](https://www.linkedin.com/feed/update/urn:li:activity:7349097205422530561/) | [Credly badge](https://www.linkedin.com/feed/update/urn:li:activity:7361810695165734912/)
+* 2025: [Renewal & becoming Dual MVP (Purview/SIEM & XDR) for the first time](https://www.linkedin.com/feed/update/urn:li:activity:7349097205422530561/) | [Credly badge](https://www.linkedin.com/feed/update/urn:li:activity:7361810695165734912/) | [Renewal Ring](https://www.linkedin.com/feed/update/urn:li:activity:7375801071140749312/)
